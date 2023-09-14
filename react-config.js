@@ -1,0 +1,18 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll": true
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+
+  // =============================
+  // Konfigurasi Tambahan
+  // =============================
+  
+  // Author: [Nama Anda]
+  // Tanggal: [Tanggal Sekarang]
+
+}
