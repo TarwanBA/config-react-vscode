@@ -9,10 +9,6 @@
   "typescript.tsdk": "node_modules/typescript/lib",
 
   // =============================
-  // Konfigurasi Tambahan
+  //   Author: [0netech]
   // =============================
-  
-  // Author: [Nama Anda]
-  // Tanggal: [Tanggal Sekarang]
-
 }
